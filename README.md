@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-- C, C++
+- C, C++, DSA
 - Currently learning python and java
 
   
