@@ -7,7 +7,6 @@
 
 ## 🛠 Skills
 - C, C++, DSA
-- Currently learning python and Java
 
   
 ## 😃 About me 
