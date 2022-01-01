@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-- C, C++, DSA
+- C, C++
 
   
 ## 😃 About me 
