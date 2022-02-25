@@ -2,11 +2,11 @@
 # Hi, I'm Pratham Pitty
 
   
-### AI & ML Enthusiast | Passionate Programmer
+### A Tech-savvy || Web Developer || Passionate Programmer || Ethical hacker
 
 
 ## 🛠 Skills
-- C, C++
+- C, C++ , Python , shell programming , Git t
 
   
 ## 😃 About me 
