@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-- C, C++ , Python , shell programming , Git t
+- C, C++ , Python , shell programming , Git , HTML , CSS , JavaScript
 
   
 ## 😃 About me 
