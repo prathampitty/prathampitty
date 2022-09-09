@@ -11,10 +11,10 @@
   
 ## 😃 About me 
 
- - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science department
+ - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science Dept.
  - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-pitty-6636b2208/)
  - 📚 I’m currently learning Data Structure, Java and Python
- - 🗣 Knows English, Hindi, Marathi, german .
+ - 🗣 Knows English, Hindi, Marathi, German .
 
   
 ### 
@@ -31,8 +31,7 @@
 
 ###  📈 GitHub Stats
 
-<!-- | <img src="https://github-readme-stats.vercel.app/api?username=prathampitty&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampitty&theme=blueberry_duo"/> |
-| ------------| ------------- |  -->
+| <img src="https://github-readme-stats.vercel.app/api?username=prathampitty&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampitty&theme=blueberry_duo"/>
 
 <!-- Test section -->
 | [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathampitty&theme=github_dark&show_icons=true)](https://github.com/prathampitty) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathampitty&theme=highcontrast)](https://github.com/prathampitty)  |
@@ -45,7 +44,7 @@
 | ---- | ---- | -->
 
 
- [![Pratham's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathampitty&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Pratham's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathampitty&theme=react-light	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **_Last updated: 9/09/2022_**
 
