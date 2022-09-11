@@ -9,8 +9,8 @@
 
  - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science Dept. 
  - 📚 I’m currently learning Data Science frameworks like Django, flask, reactJS, etc.
- - 🍳Find me on LinkedIn [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-pitty-6636b2208/) || 💬 Twitter [![twitter](https://img.shields.io/twitter/follow/PittyPratham?style=flat-square)](https://www.twitter.com/PittyPratham/)  <!-- || 👥 Discord [![discord](https://img.shields.io/discord/channel-id?style=flat-square)](https://discord.gg/invite-link) -->
- - 📫 How to reach me - 📧 E-mail [![gmail](https://img.shields.io/badge/pratham%20pitty-0A66C2?style=flat-square&color=white&logo=gmail)](mailto:prathampitty)
+ - 🍳Find me on LinkedIn [![linkedin](https://img.shields.io/badge/Pratham%20Pitty-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-pitty-6636b2208/) || 💬 Twitter [![twitter](https://img.shields.io/twitter/follow/PittyPratham?style=flat-square&logo=twitter&color=blue)](https://www.twitter.com/PittyPratham/)  <!-- || 👥 Discord [![discord](https://img.shields.io/discord/channel-id?style=flat-square)](https://discord.gg/invite-link) -->
+ - 📫 How to reach me - 📧 E-mail [![gmail](https://img.shields.io/badge/Pratham%20Pitty-0A66C2?style=flat-square&color=white&logo=gmail)](mailto:prathampitty1@gmail.com)
  
  
  - 🗣 Knows English, Hindi, Marathi, German .
