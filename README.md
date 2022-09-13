@@ -1,3 +1,4 @@
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathampitty" alt="prathampitty" /> </p> 
 
 # Hi, I'm Pratham Pitty 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=https%3A%2F%2Fprathampitty.github.io)](https://prathampitty.github.io/)
 
@@ -38,7 +39,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampitty&theme=github_dark&layout=compact)](https://github.com/prathampitty/github-readme-stats)
 
-**_Last updated: 11/09/2022_**
+**_Last updated: 14/09/2022_**
 
 ### Authors
 
