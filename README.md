@@ -1,5 +1,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathampitty" alt="prathampitty" /> </p> 
 
+<img src="https://github.com/prathampitty/prathampitty.github.io/blob/main/src/Banner.png">
+
 # Hi, I'm Pratham Pitty 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=https%3A%2F%2Fprathampitty.github.io)](https://prathampitty.github.io/)
 
   
