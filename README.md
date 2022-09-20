@@ -1,7 +1,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathampitty" alt="prathampitty" /> </p> 
 
 <!-- <img src="https://github.com/prathampitty/prathampitty.github.io/blob/Test/src/Banner1.gif"> -->
-<img src="/Banner1.gif">
+<img src="./Banner1.gif">
+<!-- <img src="./Portfolio Banner.gif"> -->
 
 ###  📈 GitHub Stats
 
