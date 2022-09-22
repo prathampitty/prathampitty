@@ -15,7 +15,7 @@
 | ---- | ---- | -->
 
 
- [![Pratham's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathampitty&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Pratham's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathampitty&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
  
  
 # Hi, I'm Pratham Pitty 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=https%3A%2F%2Fprathampitty.github.io)](https://prathampitty.github.io/)
