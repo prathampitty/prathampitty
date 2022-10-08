@@ -1,4 +1,6 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathampitty" alt="prathampitty" /> </p> 
+# Hi, I'm Pratham Pitty 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=https%3A%2F%2Fprathampitty.github.io)](https://prathampitty.github.io/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathampitty" alt="prathampitty" /> </p> 
 
 <!-- <img src="https://github.com/prathampitty/prathampitty.github.io/blob/Test/src/Banner1.gif"> -->
 <img src="./Banner1.gif">
@@ -17,9 +19,6 @@
 
 <!-- [![Pratham's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathampitty&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
  
- 
-# Hi, I'm Pratham Pitty 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=https%3A%2F%2Fprathampitty.github.io)](https://prathampitty.github.io/)
-
   
 ## A Tech-savvy || Web Developer || Passionate Programmer || Ethical Hacker
 ###
@@ -37,12 +36,12 @@
   
  ### 🛠 Skills
 - C, C++ , JAVA , Python
-- Front-end Developing (HTML , CSS , JavaScript)  
+- Front-end Developing (HTML , CSS , JavaScript , React js,)  
 - DSA , Shell Programming , Git , IOT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampitty&theme=github_dark&layout=compact)](https://github.com/prathampitty/github-readme-stats)
 
-**_Last updated: 16/09/2022_**
+**_Last updated: 08/10/2022_**
 
 ### Authors
 
