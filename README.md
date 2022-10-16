@@ -17,7 +17,7 @@
 | ---- | ---- | -->
 
 
-<!-- [![Pratham's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathampitty&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Pratham's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathampitty&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   
 ## A Tech-savvy || Web Developer || Passionate Programmer || Ethical Hacker
@@ -41,9 +41,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampitty&theme=github_dark&layout=compact)](https://github.com/prathampitty/github-readme-stats)
 
-**_Last updated: 08/10/2022_**
+
 
 ### Authors
 
 - [@prathampitty](https://www.github.com/prathampitty)
   
+**_Last updated: 16/10/2022_**
