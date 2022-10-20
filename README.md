@@ -36,9 +36,9 @@
   
  ### 🛠 Skills
 - C, C++ , JAVA , Python
-- Front-end Developing (HTML , CSS , JavaScript , React js,)  
+- Front-end Developing (HTML , CSS , JavaScript , React js,node js )  
 - DSA , Shell Programming , Git , IOT
-
+- started learing adv C# and Mysql
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampitty&theme=github_dark&layout=compact)](https://github.com/prathampitty/github-readme-stats)
 
 
@@ -47,4 +47,4 @@
 
 - [@prathampitty](https://www.github.com/prathampitty)
   
-**_Last updated: 16/10/2022_**
+**_Last updated: 20/10/2022_**
